@@ -21,7 +21,7 @@ Two players can play against each other using the keyboard, with a reset button 
 Clone this repository:
 
 ```bash
-git clone https://github.com/Manav010203/pong-game.git
+git clone https://github.com/Manav010203/Ping-Pong.git
 cd pong-game
 ```
 install dependencies using 
